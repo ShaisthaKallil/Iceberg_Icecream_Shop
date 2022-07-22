@@ -1,0 +1,83 @@
+/*::::::TAGS: :::::::*/
+body{
+	font-family: 'Poppins', sans-serif;;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 3rem;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	font-weight: 900;
+	/* color:#33a1fd; */
+	color:#fff;
+
+}
+h3{
+	font-size: 1.5rem;
+}
+/*::::::ID: :::::::*/
+
+/*--title--*/
+#title{
+	/* background-image: url(../images/white-waves.png); */
+	background-color:#f4a261;
+}
+
+
+/*::::::CLASS: :::::::*/
+/*heading*/
+
+/* .shift{
+	padding:0 15%;
+} */
+.head{
+	font-family: 'The Nautigal', cursive;
+	font-weight: 700;
+	font-size: 3.8rem;
+    color:#c71b57;
+		border:5px solid pink;
+		padding:0 10px;
+		border-radius:5%;
+}
+/*header*/
+ .container-fluid{
+	width:80%;
+}
+.nav-link{
+	color:#fff;
+}
+
+.navbar-nav {
+margin-left:50%;
+/* margin-left:700px; */
+	/* padding:10px; */
+}
+.nav-item{
+ padding:0 18px;
+ text-align:right;
+}
+.carousel{
+text-align: center;
+
+}
+
+.icecream{
+	transform:rotate(20deg);
+margin-left:80px;
+	  box-shadow: 5px 10px #a2d2ff;
+
+}
+
+/* features */
+
+
+.img-pos{
+	width:108%;
+}
+
+h3:hover{
+    color:blue;
+		cursor:pointer;
+}
+
+/*::::::TAGS: :::::::*/
