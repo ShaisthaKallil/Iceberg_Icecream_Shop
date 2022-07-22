@@ -86,10 +86,12 @@ h3:hover{
 footer{
 	padding: 0 30px;
 }
-.container{
-	margin:0 100px;
-}
 
+ hr{
+	width: 100%;
+	border:0;
+	border-top: 1px solid #b3e6c8;
+}
 
 .footer-row{
 	padding: 30px 0;
@@ -136,4 +138,16 @@ small{
 .footer-r-logo{
 	margin-top: 30px;
 	flex-basis: 50%;
+}
+
+.footer-right-col img{
+	width: 100px;
+}
+
+.footer-left-col{
+  flex-basis: 100%;
+}
+
+.footer-right-col{
+	flex-basis: 100%;
 }
